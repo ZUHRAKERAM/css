@@ -1,0 +1,21 @@
+                                           body {
+                                                        font-family:  sans-serif;
+                                                        background-color: #AFEEEE;
+                                                         margin-left: 15% ;
+                                                   margin-right: 15%;
+                                                   border: 2px dotted black;
+                                                   padding: 10px 10px 10px 10px;
+                                                   front-family: sans-serif;
+                                           }
+                                           h1, h2 {
+                                           color:            gray;
+                                  }
+                                  h1  {
+                                         border-bottom: 1px solid black;
+                                  }  
+                                  p {
+                                          color: maroon;
+                                  }
+		  em {
+                                                        font-family:  sans-serif;
+                                  }                            
